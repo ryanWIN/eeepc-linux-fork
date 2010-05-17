@@ -1,0 +1,16 @@
+
+15 Jan 2007 // Version 0.2
+    - Uses the kernel's built-in i2c functions, so it can coexist with the
+      i2c_i801 module.
+    - Communicates with the embedded controller using its indexed IO port,
+      which is much faster than using ACPI.
+    - Correctly identified the "mystery" embedded controller parameter as
+      controlling the CPU voltage.
+    - Reading the /proc/eee/fsb file now shows the current voltage.
+    - Added support for monitoring fan speed and CPU temperature.
+    - Added support for controlling the fan speed.
+
+29 Nov 2007 // Version 0.1
+    - Initial release!
+    - Uses ACPI to communicate with the PLL chip and the embedded controller.
+

@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://eeepc-linux.googlecode.com/svn/trunk/module
+https://eeepc-linux.googlecode.com/svn
+
+
+
+2007-11-29T22:46:55.518784Z
+2
+kiwidrew
+
+
+svn:special svn:externals svn:needs-lock
+
+eee.c
+file
+8
+
+
+
+2008-01-15T04:47:24.000000Z
+c05cc88579096a3799e29167b0e1fe5d
+2008-01-15T04:59:52.544519Z
+8
+kiwidrew
+
+Makefile
+file
+
+
+
+
+2007-11-29T22:45:28.000000Z
+1c5c4cc14e14dbb304ab4408ad100677
+2007-11-29T22:46:55.518784Z
+2
+kiwidrew
+
